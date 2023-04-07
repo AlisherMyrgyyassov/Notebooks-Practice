@@ -1,0 +1,14 @@
+/.ipynb_checkpoints
+/checkpoint - Copy.pth
+/checkpoint.pth
+/chest_xray
+/ConvNeXt.ipynb
+/data
+/Datasets
+/FastAI course
+/main.py
+/Model.py
+/MyModel.ipynb
+/runs
+/Test MedNeXt.ipynb
+/__pycache__
